@@ -1,0 +1,31 @@
+h2{
+    font-family:'Times New Roman', Times, serif;
+    color:rgb(223, 18, 52);
+}
+
+li{
+    font-family:"century school book";
+    font-size:20px;
+}
+
+h3,h4,h5{
+    color:"black";
+    font-family:"Times New Roman";
+}
+
+.checked{
+  color:orange;
+}
+
+img{
+    box-shadow:0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+th, td {
+    font-family:"Times New Roman";
+    font-size:20px;
+}
+
+p{
+    font-family:"Times New Roman";
+}
